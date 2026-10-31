@@ -6,7 +6,7 @@ I am a **Postdoctoral Researcher at Argonne National Laboratory**. I build resea
 
 ## AgentsSci
 
-I created [**AgentsSci — Agents for Science**](https://huggingface.co/AgentsSci), an open research initiative for sharing collaborative work on LLM agents and scientific reasoning. Its resources are developed with students and collaborators; each paper and repository credits its contributors and documents its release status.
+I share open research resources through [**AgentsSci — Agents for Science**](https://huggingface.co/AgentsSci), connecting work on LLM agents, multi-agent systems, and scientific reasoning. Resources are developed with students and collaborators; each paper and repository credits its contributors and documents its release status.
 
 [Organization and open resources](https://huggingface.co/AgentsSci) · [Scientific-agent trace explorer](https://agentssci-scientific-agent-protocol-traces-site.static.hf.space/index.html) · [Team & collaboration](https://chihhsuan-yang.github.io/team/)
 
