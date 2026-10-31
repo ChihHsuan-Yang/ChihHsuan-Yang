@@ -1,12 +1,14 @@
 # Chih-Hsuan (Bella) Yang
 
-I am a **Postdoctoral Researcher at Argonne National Laboratory**. I build research harnesses for LLM agents and multi-agent systems, studying how agents collaborate, use feedback and memory, and allocate inference effort for **agentic AI for Science**.
+I am a **Postdoctoral Researcher at Argonne National Laboratory**. I build research harnesses for large language model (LLM) agents and multi-agent systems, studying how agents collaborate, use feedback and memory, and allocate inference effort for **agentic AI for Science**.
 
 My first-author work includes **Precise but Uncoupled (NeurIPS 2026 Main Track)** and **Cost-Aware Protocol Routing (Findings of EMNLP 2026)**. I am also an equal-first author of **BioTrove (NeurIPS 2024 Datasets and Benchmarks Spotlight)**.
 
 [Research website](https://chihhsuan-yang.github.io/) · [Research resume (PDF)](https://chihhsuan-yang.github.io/resume/Bella_Yang_Research_Resume.pdf) · [Publications](https://chihhsuan-yang.github.io/publications/) · [Google Scholar](https://scholar.google.com/citations?user=s7RDC3YAAAAJ) · [Hugging Face](https://huggingface.co/ChihHsuan-Yang) · [ORCID](https://orcid.org/0000-0003-4841-1135)
 
-My research connects controlled experiments with reproducible agent evaluation, trace analysis, and open code and data. At Corteva Agriscience, I trained preference models grounded in experimental outcomes, used DPO and PPO to adapt language models, and incorporated scientists' preferences when model judgments were uncertain. At Google X, I studied information flow, coordination, and bidding among LLM agents representing stakeholders with different interests.
+My research connects controlled experiments with reproducible agent evaluation, trace analysis, and open code and data.
+
+At Corteva Agriscience, I trained preference models grounded in experimental outcomes and adapted language models with Direct Preference Optimization (DPO) and Proximal Policy Optimization (PPO). Scientists' preferences informed uncertain model judgments. At Google X, I studied information flow, coordination, and bidding among LLM agents representing stakeholders with different interests.
 
 ## AgentsSci
 
