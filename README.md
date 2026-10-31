@@ -28,10 +28,10 @@ I am a **Postdoctoral Researcher at Argonne National Laboratory**. I build resea
 
 Earlier work includes materials and molecular discovery and scientific machine learning. See my [CV](https://chihhsuan-yang.github.io/cv/) for appointments and education, and my [publication list](https://chihhsuan-yang.github.io/publications/) for the full research record.
 
-## AgentsSci and collaboration
+## Open resources and collaboration
 
-[**AgentsSci — Agents for Science**](https://huggingface.co/AgentsSci) shares open research resources on LLM agents, multi-agent systems, and scientific reasoning. Projects are developed with students and collaborators; each paper and repository credits its contributors and documents its release status.
+Released datasets, models, and research artifacts are hosted in the [**AgentsSci Hugging Face organization**](https://huggingface.co/AgentsSci). Research project pages, scientific resources, and team information are part of my [personal research website](https://chihhsuan-yang.github.io/).
 
-[Organization and open resources](https://huggingface.co/AgentsSci) · [Scientific-agent trace explorer](https://agentssci-scientific-agent-protocol-traces-site.static.hf.space/index.html) · [Team & collaboration](https://chihhsuan-yang.github.io/team/)
+[Hugging Face organization](https://huggingface.co/AgentsSci) · [Scientific-agent trace resources](https://chihhsuan-yang.github.io/projects/#scientific-agent-traces) · [Team & collaboration](https://chihhsuan-yang.github.io/team/)
 
 I welcome collaborations on agent harnesses, evaluation, feedback and memory, post-training, and AI-enabled scientific discovery. [Team & contact](https://chihhsuan-yang.github.io/team/) · [bellayang@anl.gov](mailto:bellayang@anl.gov)
